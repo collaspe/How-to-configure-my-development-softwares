@@ -1,4 +1,4 @@
-# How-to-configure-my-development-softwares
+# How to configure my development softwares
 MICROSOFT VISUAL STUDIO CODE
   1) Mes extensions : 
     - Bracket Pair Colorizer (permet de colorer les {}, () etc...
