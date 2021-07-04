@@ -11,3 +11,7 @@
 3) Paramètres : 
 	- Font size : 15
 	- Font Family : 'Ubuntu', 'Courier New', monospace
+
+4) Configuration par langage
+	### Python
+	- Changer le formatteur de scripts python : https://dev.to/adamlombard/how-to-use-the-black-python-code-formatter-in-vscode-3lo0
