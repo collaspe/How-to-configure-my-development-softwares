@@ -7,6 +7,7 @@
 		
 2) Thème :
 	- Thème sombre+ (par défaut)
+	- Shades of Purple
 		
 3) Paramètres : 
 	- Font size : 15
